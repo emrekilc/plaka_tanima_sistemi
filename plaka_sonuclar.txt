@@ -1,0 +1,60 @@
+resim: veriseti/1.jpg
+resimdeki plaka: 47
+
+resim: veriseti/10.jpg
+resimdeki plaka: 14EA2525
+
+resim: veriseti/11.png
+resimdeki plaka: 
+
+resim: veriseti/12.jpg
+resimdeki plaka: 41BT996
+
+resim: veriseti/13.jpg
+resimdeki plaka: 51KJ687
+
+resim: veriseti/14.jpg
+resimdeki plaka: 34G845
+
+resim: veriseti/15.jpg
+resimdeki plaka: 
+
+resim: veriseti/16.png
+resimdeki plaka: 07MR9771
+
+resim: veriseti/17.jpg
+resimdeki plaka: 04AB922
+
+resim: veriseti/18.jpg
+resimdeki plaka: 74AAC774
+
+resim: veriseti/19.jpg
+resimdeki plaka: 29AAB935
+
+resim: veriseti/2.jpg
+resimdeki plaka: 
+
+resim: veriseti/20.jpg
+resimdeki plaka: 34J7042
+
+resim: veriseti/3.jpg
+resimdeki plaka: 34SLM71
+
+resim: veriseti/4.jpg
+resimdeki plaka: 06BMW48
+
+resim: veriseti/5.jpg
+resimdeki plaka: 54ZS063
+
+resim: veriseti/6.jpg
+resimdeki plaka: 45Y3994
+
+resim: veriseti/7.jpg
+resimdeki plaka: 80ABV708
+
+resim: veriseti/8.jpg
+resimdeki plaka: 34GS1905
+
+resim: veriseti/9.jpg
+resimdeki plaka: 34PY2115
+
